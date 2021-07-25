@@ -1,0 +1,23 @@
+.display{
+    position: relative;
+    height: 200px;
+    border-radius: 20px;
+}
+h1{
+    position: absolute;
+}
+.minutes{
+    left:33% ;
+}
+.seconds{
+    left:46% ;
+}
+.miliseconds{
+    left:59% ;
+}
+.dots{
+    left: 42.5%;
+}
+.dots2{
+    left: 55.5%;
+}
